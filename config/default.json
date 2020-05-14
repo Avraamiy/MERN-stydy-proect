@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://avraam:d96ggnpMfd5R2Cx@cluster0-bfrzi.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "mern secret avraamiy",
+  "baseUrl": "http://localhost:5000"
+}
